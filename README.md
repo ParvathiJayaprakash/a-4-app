@@ -67,7 +67,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-https://drive.google.com/file/d/1FtpUhJBHTDrhupOyIpDwMyDu16jsfF0O/view?usp=drivesdk
+![Team](./photo_2025-02-02_10-35-51)
 
 
 ![Components](Add photo of your components here)
