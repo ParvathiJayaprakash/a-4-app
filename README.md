@@ -67,7 +67,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](./photo_2025-02-02_10-35-51)
+![Team](photo_2025-02-02_10-35-51.jpg)
 
 
 ![Components](Add photo of your components here)
