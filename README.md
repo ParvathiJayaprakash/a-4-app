@@ -65,7 +65,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+https://drive.google.com/file/d/1FtpUhJBHTDrhupOyIpDwMyDu16jsfF0O/view?usp=drivesdk
 
 
 ![Components](Add photo of your components here)
@@ -79,16 +79,17 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1FtLsWKSDoq2Q25VllJqQiOBCDPS-DS0d/view?usp=drivesdk
+
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+ [nandana nath]: [idea]
+- [parvathi jayaprakash]: [program developer]
+- [krishnendu v]: [program developer]
+
 
 ---
 Made with ❤️ at TinkerHub
