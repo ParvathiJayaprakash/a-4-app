@@ -20,7 +20,7 @@
 [ the complexity of using applications for senior citizen  ]
 
 ### The Solution
-[to reduce the complexity of using applications for senior citizen by using native language, more user friendly and giving easiest instructions so they didnt need to write them all step by step and carry with them] 
+[To reduce the complexity of using applications for senior citizen by using native language, more user friendly and giving easiest instructions so they didnt need to write them all step by step and carry with them] 
 
 ## Technical Details
 ### Technologies/Components Used
@@ -31,7 +31,7 @@ For Software:
 
 
 ### Implementation
-For Software:
+For Software: the whole process of implementation includes development of the frontend that include basic home page details such as name of the page ,icon of the app that we provide guidance to the user and it is hyperlinked to another page which includes the detailed instructions in malayalam ,with suitable images.
 # Installation
 [commands]
 
@@ -40,6 +40,8 @@ For Software:
 
 ### Project Documentation
 For Software:
+  project title : webpage for helping senior citizen
+  project overview : the webpage that aimed to providing assistance and guidance to elderly individuals for using whatsapp like applications .the project will provide a user friendly and accessable platform for seniors to seek help and support even when they are alone and helpless. project opjectives: provide the quality of life for elderly individuals by providing them with a reliable and trustworthy support system.
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -86,7 +88,7 @@ https://drive.google.com/file/d/1FtLsWKSDoq2Q25VllJqQiOBCDPS-DS0d/view?usp=drive
 [Add any extra demo materials/links]
 
 ## Team Contributions
- [nandana nath]: [idea]
+ - [nandana nath]: [ idea ]
 - [parvathi jayaprakash]: [program developer]
 - [krishnendu v]: [program developer]
 
